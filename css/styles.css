@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: sans-serif; 
+  text-align: center;
+  background:url("../img/background.jpg");
+}
+
+label {
+  display: block;
+
+}
+
+input {
+  display: block;
+  position: relative;
+  left:318px;
+}
+
+.hiding {
+  display: none;
+}
+
+.container-fluid{
+  background-color: rgba(10,0,4,.8);
+  height: 213px;
+  color: #ffffff;
+  position: relative;
+  top: 92px;
+  padding-top: 63px;
+
+}
